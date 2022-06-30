@@ -5,10 +5,10 @@ Pricing_Panel is a simple page that demonstrates some styling with CSS
 ## Final Product
 
 Desktop View of Pricing Panel Page:
-!["posted tweets"](./public/images/desktop.png)
+!["desktop"](./public/images/desktop.png)
 
 Mobile View of Pricing Panel Page:
-!["posted tweets"](./public/images/mobile.png)
+!["mobile"](./public/images/mobile.png)
 
 ## Getting Started
 
